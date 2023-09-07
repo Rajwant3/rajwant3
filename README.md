@@ -7,7 +7,7 @@ Hi, I'm Rajwant Kaur!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer%2C+Full+Stack+Java+developer;DS+%7C+AI+%7C+ML+Enthusiastic;Always+learning+new+things&center=true&width=380&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Java+developer;DS+%7C+AI+%7C+ML+Enthusiastic;Always+learning+new+things&center=true&width=380&height=45"></a>
 
 </p>
 <hr/>
@@ -70,15 +70,10 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 
 <p>
-
-<a href="https://www.eclipse.org/ide/"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%230078D7.svg?logo=eclipse-ide&logoColor=white"></a>
-
-<a href="https://spring.io/tools"><img alt="Spring Tool Suite (STS)" src="https://img.shields.io/badge/Spring%20Tool%20Suite%20(STS)-%236DB33F.svg?logo=spring&logoColor=white"></a>
-	
- <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black"></a>
-
-<a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D7.svg?logo=windows&logoColor=white"></a>
-
+    <a href="https://www.eclipse.org/ide/"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%230078D7.svg?logo=eclipse-ide&logoColor=white"></a>
+    <a href="https://spring.io/tools"><img alt="Spring Tool Suite (STS)" src="https://img.shields.io/badge/Spring%20Tool%20Suite%20(STS)-%236DB33F.svg?logo=spring&logoColor=white"></a>	
+    <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black"></a>
+    <a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D7.svg?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
