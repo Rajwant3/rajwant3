@@ -13,7 +13,7 @@ Hi, I'm Rajwant Kaur!
 <hr/>
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
-	<h2> <a href="https://shivamnirwani.com" target="blank">
+	<h2> <a href="https://rajwant3.github.io" target="blank">
  << Click Here to Visit My Portfolio >>
 </a></h2>
 </samp>
