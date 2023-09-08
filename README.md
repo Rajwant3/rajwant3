@@ -113,9 +113,9 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <p align="center">
 	<a href="https://rajwant3.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/rajwant3" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/rajwant3/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/rajwant3/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/rajwant3/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/rajwant-kaur3/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:rkdhillon3@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
